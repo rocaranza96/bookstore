@@ -1,0 +1,16 @@
+**/vendor
+**/node_modules
+**/storage
+.husky
+
+.gitignore
+.htaccess
+.editorconfig
+.env
+.env.example
+.gitattributes
+.prettierignore
+hot
+
+*.ico
+*.txt
